@@ -1,6 +1,5 @@
-// src/App.js
 import React from 'react';
-import ColorBlock from './ColorBlock';  
+import ColorBlock from './components/ColorBlock/ColorBlock';  
 function App() {
   return (
     <div className="App">
